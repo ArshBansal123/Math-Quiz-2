@@ -1,0 +1,28 @@
+#game_page_div{
+    border-radius: 50px;
+    background-color: rgba(238, 237, 237, 0.308);
+    border: none;
+    text-align:center;
+    width: 750px;
+    height: 500px;
+}
+body{
+    background-image: url("bg\ game\ page.png");
+    background-position-x: center;
+    background-position-y: center;
+}   
+#first_number, #second_number{
+    border-radius: 50px;
+    background-color: rgba(238, 237, 237, 0.308);
+    border: none;
+    width: 300px; 
+    height: 45px;
+} 
+#send_button{
+    width: 300px;
+    height: 45px;
+    border-radius: 50px;
+    background-color: rgb(226, 59, 95);
+    color: white;
+    border: none;
+}
